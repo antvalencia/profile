@@ -3,7 +3,7 @@
 ./get_docker.sh
 ./get_go.sh
 ./get_tmux.sh
-./get_pianobar.sh
 ./get_ansible.sh
+./get_kubernetes.sh
 ./get_tree.sh
-
+./get_pianobar.sh
