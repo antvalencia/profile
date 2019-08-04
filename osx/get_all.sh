@@ -2,6 +2,7 @@
 ./get_python3.sh
 ./get_docker.sh
 ./get_go.sh
+./get_rust.sh
 ./get_tmux.sh
 ./get_ansible.sh
 ./get_kubernetes.sh
